@@ -1,1 +1,1 @@
-printf '%s\n' "Versión inicial del archivo" > conflicto.txt
+Cambio 2 realizado por Mauro
