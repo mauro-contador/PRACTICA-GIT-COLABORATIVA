@@ -1,1 +1,4 @@
 printf '%s\n' "Versión inicial del archivo" > conflicto.txt
+
+printf '%s\n' "Cambio 3 realizado por jgarmej" > conflicto.txt
+
